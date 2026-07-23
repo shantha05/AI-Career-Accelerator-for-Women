@@ -18,6 +18,19 @@ This programme brings together Pearl Innovations Limited and Project Pivot to de
 
 The programme is a skills-building initiative designed to equip participants with practical AI knowledge, workplace-ready tools, and confidence to apply AI in real business settings. Pearl Innovations Limited supports the training of the Fellows by helping deliver the programme content, learning activities, and practical guidance throughout the course.
 
+## Table of Contents
+
+- [Format](#format)
+- [Learning Outcomes](#learning-outcomes)
+- [Week 1 - AI Foundations & Prompt Engineering](#week-1---ai-foundations--prompt-engineering)
+- [Week 2 - AI for Everyday Business Productivity](#week-2---ai-for-everyday-business-productivity)
+- [Week 3 - AI for Your Profession](#week-3---ai-for-your-profession)
+- [Week 4 - AI Content Creation & Business Communication](#week-4---ai-content-creation--business-communication)
+- [Week 5 - Building AI Agents (No Coding Required)](#week-5---building-ai-agents-no-coding-required)
+- [Week 6 - Building AI Teams with OpenMax COCO AI](#week-6---building-ai-teams-with-openmax-coco-ai)
+- [Week 7 - Career Readiness & Final Showcase](#week-7---career-readiness--final-showcase)
+- [Weekly Commitments](#weekly-commitments)
+
 - Duration: 7 weeks
 
 ## Format
