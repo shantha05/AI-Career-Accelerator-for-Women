@@ -1,4 +1,22 @@
-# AI Career Accelerator for Women
+# AI Career Accelerator for Women: She Pivots AI Fellows Program
+
+<div align="center" style="margin: 24px 0 12px;">
+	<table>
+		<tr>
+			<td align="center" style="padding: 0 24px;">
+				<img src="Images/PearlInnovations.png" alt="Pearl Innovations" width="190" />
+			</td>
+			<td align="center" style="padding: 0 24px;">
+				<img src="Images/PivotProject.png" alt="PivotProject" width="190" />
+			</td>
+		</tr>
+	</table>
+	<p><em>Pearl Innovations Limited x Project Pivot</em></p>
+</div>
+
+This programme brings together Pearl Innovations Limited and Project Pivot to deliver the She Pivots AI Fellows Program.
+
+The programme is a skills-building initiative designed to equip participants with practical AI knowledge, workplace-ready tools, and confidence to apply AI in real business settings. Pearl Innovations Limited supports the training of the Fellows by helping deliver the programme content, learning activities, and practical guidance throughout the course.
 
 - Duration: 7 weeks
 
@@ -403,7 +421,7 @@ Each week follows a consistent pattern to build confidence and practical skills:
 - Learn: Attend the daily 2-hour instructor-led session introducing concepts and demonstrating AI tools.
 - Practice: Complete guided labs that reinforce the techniques using realistic workplace scenarios.
 - Apply: Work on a role-specific assignment or mini project that solves a genuine business problem.
-- Collaborate: Engage with peers and ask questions through Microsoft Teams during dedicated support hours.
+- Collaborate: Engage with peers and ask questions through ai-fellows-cohort-1 Slack Channel during dedicated support hours.
 - Reflect: Document lessons learned, improve prompts, and add completed work to a professional AI portfolio.
 
 ## Participant Assessment Framework
@@ -417,11 +435,11 @@ Each week follows a consistent pattern to build confidence and practical skills:
 
 | Day | Instructor-Led Session (2 hrs) | Self-Paced Learning (3 hrs) | Lecturer Support | Total |
 |---|---|---|---|---|
-| Monday | Weekly concepts, AI tool demonstrations & Q&A | Guided labs and practical exercises | Microsoft Teams (up to 3 hrs) | 5 hrs |
-| Tuesday | AI use cases, best practices & Q&A | Hands-on labs and scenario exercises | Microsoft Teams (up to 3 hrs) | 5 hrs |
-| Wednesday | New techniques & Q&A | Continue labs and begin mini project | Microsoft Teams (up to 3 hrs) | 5 hrs |
-| Thursday | Industry use cases, guest speaker or advanced demos & Q&A | Complete mini project and challenge exercises | Microsoft Teams (up to 3 hrs) | 5 hrs |
-| Friday | Project presentations, feedback & Q&A | Finalise and submit weekly assignment | Microsoft Teams (up to 3 hrs) | 5 hrs |
+| Monday | Weekly concepts, AI tool demonstrations & Q&A | Guided labs and practical exercises | ai-fellows-cohort-1 Slack Channel (up to 3 hrs) | 5 hrs |
+| Tuesday | AI use cases, best practices & Q&A | Hands-on labs and scenario exercises | ai-fellows-cohort-1 Slack Channel (up to 3 hrs) | 5 hrs |
+| Wednesday | New techniques & Q&A | Continue labs and begin mini project | ai-fellows-cohort-1 Slack Channel (up to 3 hrs) | 5 hrs |
+| Thursday | Industry use cases, guest speaker or advanced demos & Q&A | Complete mini project and challenge exercises | ai-fellows-cohort-1 Slack Channel (up to 3 hrs) | 5 hrs |
+| Friday | Project presentations, feedback & Q&A | Finalise and submit weekly assignment | ai-fellows-cohort-1 Slack Channel (up to 3 hrs) | 5 hrs |
 
 | Assessment | When | Purpose | Weighting |
 |---|---|---|---|
