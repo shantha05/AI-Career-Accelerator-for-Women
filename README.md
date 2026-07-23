@@ -18,6 +18,8 @@ This programme brings together Pearl Innovations Limited and Project Pivot to de
 
 The programme is a skills-building initiative designed to equip participants with practical AI knowledge, workplace-ready tools, and confidence to apply AI in real business settings. Pearl Innovations Limited supports the training of the Fellows by helping deliver the programme content, learning activities, and practical guidance throughout the course.
 
+> **Duration:** 7 weeks
+
 ## Table of Contents
 
 - [Format](#format)
@@ -30,8 +32,6 @@ The programme is a skills-building initiative designed to equip participants wit
 - [Week 6 - Building AI Teams with OpenMax COCO AI](#week-6---building-ai-teams-with-openmax-coco-ai)
 - [Week 7 - Career Readiness & Final Showcase](#week-7---career-readiness--final-showcase)
 - [Weekly Commitments](#weekly-commitments)
-
-- Duration: 7 weeks
 
 ## Format
 
